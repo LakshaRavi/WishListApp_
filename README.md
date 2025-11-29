@@ -1,2 +1,2 @@
 # WishlistApp
-Minimal Wishlist app demo repo for Git fork/PR workflow
+This is the official project for the semester, version 1.0.
